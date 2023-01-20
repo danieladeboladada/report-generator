@@ -1,9 +1,5 @@
 Author(s): Daniel Adebola-Dada
 
-Student Number: 101110897
-
-Course: COMP 2404B
-
 Purpose: To  generates a set of reports based on data from Canada’s National Graduate Survey (NGS)
          from the years 2000-2015 using C++
 
