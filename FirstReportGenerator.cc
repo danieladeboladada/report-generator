@@ -1,5 +1,6 @@
 #include <string>
 #include <iomanip>
+#include <sstream>
 using namespace std;
 
 #include "ReportGenerator.h"

@@ -1,4 +1,5 @@
 using namespace std;
+#include <sstream>
 
 #include "ReportGenerator.h"
 

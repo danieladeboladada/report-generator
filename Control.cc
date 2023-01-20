@@ -2,6 +2,7 @@
 #include <iomanip>
 using namespace std;
 #include <string>
+#include <sstream>
 
 #include "Control.h"
 
