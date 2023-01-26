@@ -2,7 +2,7 @@
 
 Author(s): Daniel Adebola-Dada
 
-Purpose: To  generates a set of reports based on data from Canada’s National Graduate Survey (NGS)
+Purpose: To generate a set of reports based on data from Canada’s National Graduate Survey (NGS)
          from the years 2000-2015 using C++
 
 List of source and header files:
